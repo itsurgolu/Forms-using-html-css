@@ -1,0 +1,90 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    
+
+}
+.container{
+    padding: 0px 400px ;
+    background-color:rgb(244, 225, 225);
+
+    margin:0px 100px 0px 100px;
+}
+h2{
+    text-align: center;
+    font-size: 2rem;
+    padding: 10px;
+    }
+.foam-label{
+margin: 0px 20px 0px 20px;
+font-size: 17px;
+
+}
+.input-container{
+    margin-left: 55px;
+}
+.input-container-l{
+    margin-left: 57px;
+}
+.input-container-office{
+    margin-left: -7px;
+}
+.input-container-username{
+    margin-left: 53px;
+}
+.input-container-password{
+    margin-left: 64px;
+}
+.input-container-cpassword{
+    margin-left: 6px;
+}
+.input-container-email{
+    margin-left: 85px;
+}
+.input-container-c{
+    margin-left: 50px;
+}
+.input-group{
+    padding: 7px 10px;
+}
+
+
+.input-field{
+    padding:  0px 20px 0px 20px;
+    width: 330px;
+    height:35px;
+    border-radius:;
+    border: none;
+    margin-top: 5px;
+}
+
+.option{
+    padding:  0px 20px 0px 20px;
+    width: 329px;
+    height:35px;
+    margin-top: 5px;
+    border: none;
+}
+.fa {
+    background-color: rgb(212, 201, 224);
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.btn{
+    margin-left: 50%;
+    text-align: center;
+    background: #0887e1;
+    padding: 10px;
+    border: none;
+    color: white;
+    border-radius: 5px;
+    margin-top: 15px;
+}
+
+.btn:hover{
+    background-color: rgb(55, 55, 221);
+    cursor: pointer;
+    
+}
